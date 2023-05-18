@@ -1,17 +1,23 @@
 
-<!--
-**rlawlgns3433/rlawlgns3433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**<h1>👋Hi There, I'm Jihun</h1>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m interested in Game Programming 🎮, Machine Learning 🧠
+
+- 🌱 I’m currently learning Game Programming, ML-Agents, Docker, Image Processing
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
--->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlgns3433)](https://solved.ac/rlawlgns3433) <P/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawlgns3433&layout=compact)](https://github.com/rlawlgns3433/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlawlgns3433)](https://solved.ac/rlawlgns3433)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawlgns3433&show_icons=true&theme=cobalt)
