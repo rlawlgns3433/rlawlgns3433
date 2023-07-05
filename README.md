@@ -35,6 +35,10 @@
 
 </br></br>
 
-- 🔭 I’m interested in Game Programming 🎮, Machine Learning 🧠
+- 🔭 I’m interested in Game Programming 🎮, Game AI 🧠
 
-- 🌱 I’m currently learning Unity, ML-Agents, Docker, Darknet
+- 🌱 I’m currently learning Unity, ML-Agents, Unreal
+
+- 한국전자통신연구원 동계 연구연수생 (2023/01 ~ 2023/02)
+
+- 📃 Unity ML-Agents 및 STT 활용 TPS 게임 환경 및 몰입도 개선, 2023 한국스마트미디어학회 종합학술대회, p.111-112, 2023/04
