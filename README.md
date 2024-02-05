@@ -13,9 +13,11 @@
   <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/cesium-6cADDF?style=for-the-badge&logo=cesium&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SFML-567e25?style=for-the-badge&logo=SFML&logoColor=white">
 </div>
 
 
