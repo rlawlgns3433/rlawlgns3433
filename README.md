@@ -39,3 +39,8 @@
 - 한국전자통신연구원 동계 연구연수생 (2023/01 ~ 2023/02)
 
 - 📃 Unity ML-Agents 및 STT 활용 TPS 게임 환경 및 몰입도 개선, 2023 한국스마트미디어학회 종합학술대회, p.96-97, 2023/04
+
+</br></br>
+## Projects
+- [SFML 개인 프로젝트 Strikers 1945 모작](https://github.com/rlawlgns3433/Strikers1945)
+- [SFML 팀 프로젝트 Ninja Baseball Batman 모작](https://github.com/PineT00/Ninja_Baseball)
