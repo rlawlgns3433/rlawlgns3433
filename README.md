@@ -34,7 +34,8 @@
 ## Projects
 - [SFML 개인 프로젝트 Strikers 1945 모작](https://github.com/rlawlgns3433/Strikers1945)
 - [SFML 팀 프로젝트 Ninja Baseball Batman 모작](https://github.com/PineT00/Ninja_Baseball)
-- [Unity 미니게임 협업 프로젝트 Cosmos Guardian 창작](https://github.com/rlawlgns3433/CosmosGuardian)
+- [Unity 미니 게임 협업 프로젝트 Cosmos Guardian 창작](https://github.com/rlawlgns3433/CosmosGuardian)
+- [Unity 모바일 게임 협업 프로젝트 MyUtopia 창작](https://github.com/rlawlgns3433/MyUtopia)
 </br>
 
 ---
