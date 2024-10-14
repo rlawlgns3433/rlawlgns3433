@@ -41,7 +41,7 @@
 ---
 - 🔭 I’m interested in Game Programming 🎮, Game AI 🧠
 
-- 🌱 I’m currently learning Unity, ML-Agents, Unreal
+- 🌱 I’m currently learning Unity, DX12
 
 - 한국전자통신연구원 동계 연구연수생 (2023/01 ~ 2023/02)
 
