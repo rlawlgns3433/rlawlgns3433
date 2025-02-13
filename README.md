@@ -45,6 +45,7 @@
 ## Portfolio
 - [C++ 포트폴리오](https://drive.google.com/drive/folders/1yEPteNuAiXN3whBqwo1N0VdYMGLhy8Dk?usp=drive_link)
 - [Unity 포트폴리오](https://drive.google.com/drive/folders/1XApI9K9aiEuFEx7_Zh4omdPxH_486fet?usp=drive_link)
+- [DeepLearning 연구계획서](https://drive.google.com/drive/folders/1apxdIyIa5IHDP6UNVS5DQXbB5Zc0xS2h)
 
 ---
 - 🔭 I’m interested in Game Programming 🎮, Game AI 🧠
